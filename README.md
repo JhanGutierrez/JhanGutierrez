@@ -26,7 +26,7 @@ Desarrollador Front End de Medellín, Colombia. Siempre trabajando en nuevos pro
 <br>
 🌱 Disfruto compartir mis conocimientos y colaborar con otros.
 <br>
-🎨 <strong>Hobbies: </strong>Juegos 🎮 | Musica 🎧 | Ejecicio 🏃
+🎨 <strong>Hobbies: </strong> Musica 🎧 | Ejecicio 🏃
 <br>
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="30px">&nbsp; ***Tecnologías y lenguajes***
 
