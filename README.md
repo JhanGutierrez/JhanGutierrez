@@ -9,9 +9,6 @@
 <a href="https://www.linkedin.com/in/jhangutierrez/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=Flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="[https://www.instagram.com/shaunak_chandra/](https://www.instagram.com/jhangrrz/)">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=Flat&logo=instagram&logoColor=white" alt="Youtube Badge"/>
-</a>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=JhanGutierrez&icon=0&color=2)](https://visitcount.itsvg.in)
